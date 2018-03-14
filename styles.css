@@ -1,0 +1,19 @@
+button {
+    background-color: black;
+    color: white;
+    font-size: 12px;
+
+}
+h1 {
+    text-align: center;
+}
+body {
+    background-color: teal;
+    color: white;
+    font-size: 12px;
+    text-align: left;
+}
+
+p {
+    font-size: 32px;
+}
